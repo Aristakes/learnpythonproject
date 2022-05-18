@@ -1,0 +1,3 @@
+We have some text ,
+with some "symbols" for example (this) ,
+after "second symbols" , and ( last symbols )
